@@ -62,7 +62,7 @@ Nuxt application. We'll use it after we setup Pinia.
 Let's get Pinia installed and update the Nuxt config:
 
 ```bash
-npm install pinia @pinia/nuxt
+npm install pinia @pinia/nuxt nuxt-feathers-pinia
 ```
 
 Setup your Nuxt config:
